@@ -1,0 +1,3 @@
+/home/aquib/Display_Image/CMakeFiles/rebuild_cache.dir
+/home/aquib/Display_Image/CMakeFiles/edit_cache.dir
+/home/aquib/Display_Image/CMakeFiles/Display_Image.dir
